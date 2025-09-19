@@ -27,7 +27,7 @@ The assignment offered a starter Jupyter Notebook that prompted the initial load
 
 * When breaking out by coupon type, we see signficant variation in acceptance rates.
   
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <img src="/images/bar_allcoupons.png">
 
 
