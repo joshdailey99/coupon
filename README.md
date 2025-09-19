@@ -26,6 +26,7 @@ The assignment offered a starter Jupyter Notebook that prompted the initial load
 <img src="/images/pie_allcoupons.png">
 
 * When breaking out by coupon type, we see signficant variation in acceptance rates.
+  
 
 <img src="/images/bar_allcoupons.png">
 
