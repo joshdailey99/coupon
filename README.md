@@ -30,9 +30,9 @@ The assignment offered a starter Jupyter Notebook that prompted the initial load
 <img src="/images/bar_allcoupons.png" style="width:50%; height:50%;">
 
 
-## Independent Analysis (Coffee House Coupoons)
+## Independent Analysis (Coffee House Coupons)
 
-The core of ths assignment was to perform an independent data analysis in order to generate actionable insights and offered hypothetical recommendations to business leaders.
+The core of ths assignment was to perform an independent data analysis in order to generate actionable insights and offer hypothetical recommendations to business leaders.
 
 For my case, I elected to focus on the data associated with coupons for Coffee Houses alone.  See details below.
 
@@ -52,6 +52,8 @@ Top Drivers of Coffee House coupon acceptance:
 
 Interestingly, 10AM is higher than the start of day commute time of 7AM. Possibly drivers are too rushed to get to school/work to take advantage of coupons during rush hour. However, 10AM may represent a natural mid-morning break or "second coffee" ritual.  
 
+<img src="/images/barplot_timeofday.png">
+
 ##### 2 - Prior CoffeeHouse frequency
 
 * Drivers with monthly visits from 4-8 had 68.6% acceptance
@@ -60,6 +62,8 @@ Interestingly, 10AM is higher than the start of day commute time of 7AM. Possibl
 
 Naturally, drivers who are already established clients of CoffeeHouses will be more attracted to a coupon as opposed to drivers who never visit and may only respond for novelty or price motivations.
 
+<img src="/images/barplot_freq.png">
+
 ##### 3 - Expiration
 
 * If the coupon has 1day until expiration, the acceptance rate is 58.4%
@@ -67,6 +71,8 @@ Naturally, drivers who are already established clients of CoffeeHouses will be m
 * Difference of 15.2%
 
 The longer the offer is valid, the more likely the drivers are to take advantage.  A 2 hour time limit may be too short to allow for personal time conflicts that may not allow the driver to take immediate action on the coupon. 
+
+<img src="/images/barplot_exp.png">
 
 ##### 4 - Destination
 
@@ -84,6 +90,8 @@ Drivers respond to the coupon offer more frequently when there is no competing u
 
 When with friends, the detour may be reframed as a shared journey or an opportunity to hang out longer, than an inconvenience or hassle.  Drivers may be more willing to act on a deal when they know it creates shared value with a friend (e.g., “buy-one-get-one” or multiple drinks).
 
+<img src="/images/barplot_dest.png">
+
 ##### 6 - Age
 
 * For drivers below 21, the acceptance rate is 69.7%
@@ -91,6 +99,8 @@ When with friends, the detour may be reframed as a shared journey or an opportun
 * Difference of 28.0%
 
 Very young drivers had notably higher rates of acceptance.  It's possible that younger drivers, who may be just starting their careers or are still students, are more price sensitive and therefore more responsive to coupon offers.
+
+<img src="/images/barplot_age.png">
 
 ### Next Step Recommendations
 
