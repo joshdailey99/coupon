@@ -28,7 +28,7 @@ The assignment offered a starter Jupyter Notebook that prompted the initial load
 * When breaking out by coupon type, we see signficant variation in acceptance rates.
   
 
-<img src="/images/bar_allcoupons.png">
+<img src="/images/bar_allcoupons.png" height="1600px">
 
 
 ## Independent Analysis (Coffee House Coupoons)
