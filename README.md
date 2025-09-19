@@ -1,3 +1,4 @@
+Link to complete Jupyter notebook: https://github.com/joshdailey99/coupon/blob/main/prompt.ipynb
 
 ## Project Background
 
@@ -36,7 +37,7 @@ The core of ths assignment was to perform an independent data analysis in order 
 
 For my case, I elected to focus on the data associated with coupons for Coffee Houses alone.  See details below.
 
-### Coffee House Analysis Description
+### Data Analysis Objective
 
 For Coffee House coupons, determine which user and trip attributes are associated with accepting vs rejecting the offer.  Translate those differences into actionable targeting and offer-design suggestions.
 
