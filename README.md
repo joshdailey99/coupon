@@ -21,9 +21,14 @@ The assignment offered a starter Jupyter Notebook that prompted the initial load
 
 ### Initial Findings 
 
-Add HERE
-
+* The overall acceptance rate for all coupons was 56.8%
+  
 <img src="/images/pie_allcoupons.png">
+
+* When breaking out by coupon type, we see signficant variation in acceptance rates.
+
+<img src="/images/bar_allcoupons.png">
+
 
 ## Independent Analysis (Coffee House Coupoons)
 
